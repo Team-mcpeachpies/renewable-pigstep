@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 88,
+        "min_format": 88,
+        "max_format": 94,
         "description": "§9mcpeachpies/kindabland Renewable Pigstep\n§7v1.0.4"
     }
 }
