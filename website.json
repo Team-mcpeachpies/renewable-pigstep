@@ -1,0 +1,36 @@
+{
+	"title": "Renewable Pigstep",
+	"description_short": "Get Pigstep music discs from Creepers",
+	"description": "Renewable Pigstep music disc drop from Creepers when shot by a Piglin",
+	"youtube": null,
+	"icon": "mcpeachpies_renewable_pigstep/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Creepers killed by a Piglin with a crossbow will drop the 'Pigstep' music disc"
+		},
+		{
+			"label": "Made in collaboration with Noelle"
+		},
+		{
+			"label": "Alternative Download for compatibility with <a href=\"/datapacks/?increased_head_drops\" class=\"read-more\">Increased Head Drops<a>"
+		},
+		{
+			"label": "Compatible with Minecraft 1.16 and up, last tested on Minecraft 1.20"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_renewable_pigstep.zip"
+		},
+		{
+			"label": "Download (Plus Increased Head Drops)",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_head_drops_renewable_pigstep.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/renewable-pigstep"
+		}
+	]
+}
